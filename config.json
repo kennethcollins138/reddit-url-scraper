@@ -1,0 +1,11 @@
+{
+    "client_id": "",
+    "client_secret": "",
+    "user_agent": "",
+    "redirect_uri": "http://localhost:5000/callback",
+    "subreddit_name": "",
+    "secret": "",
+    "allowed_domains": [
+        ""
+    ]
+}
